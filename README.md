@@ -55,7 +55,6 @@ vendor-performance-analysis/
 │
 ├── README.md
 ├── .gitignore
-├── requirements.txt
 ├── Vendor Performance Report.pdf
 │
 ├── ingestion_db.py
@@ -118,10 +117,14 @@ vendor-performance-analysis/
 git clone https://github.com/SanaaWeee2006/vendor-performance-analysis-sql-python.git
 ```
 2. Load the CSVs and ingest into database:
-
+```bash
+python ingestion_db.py
+```
 3. Create vendor summary table:
-
-4. Open and run notebooks:
+```bash
+python get_vendor_summary.py
+```
+5. Open and run notebooks:
 
 
 ---
