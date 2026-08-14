@@ -125,6 +125,8 @@ python ingestion_db.py
 python get_vendor_summary.py
 ```
 5. Open and run notebooks:
+   - 'exploratory_data_analysis.ipynb'
+   - 
 
 
 ---
