@@ -37,6 +37,7 @@ Effective inventory and sales management are critical in the retail sector. This
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
 
 - Multiple CSV files located in '/data/' folder (sales, vendors, inventory)
+- CSV files - sales.csv(14680064 rows), purchases(16777216 rows), purchase_prices(110355 rows), vendor_invoice(50271 rows)
 - Summary table created from ingested data and used for analysis
 
 ---
@@ -50,25 +51,24 @@ Effective inventory and sales management are critical in the retail sector. This
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
 
 ```
-
 vendor-performance-analysis/
-|
-README.md
-|
-.gitignore
-|
-requirements.txt
-|
-Vendor Performance Report.pdf
-|
-ingestion_db.py #to ingest CSV files into the database
-|
-get_vendor_summary.py    #to get a summary table for desired analysis
-|
-exploratory_data_analysis.ipynb
-|
-vendor_performance_analysis.ipynb
-|    
+│
+├── README.md
+├── .gitignore
+├── requirements.txt
+├── Vendor Performance Report.pdf
+│
+├── ingestion_db.py
+│   └── Ingests CSV files into the database
+│
+├── get_vendor_summary.py
+│   └── Generates a vendor summary table for analysis
+│
+├── exploratory_data_analysis.ipynb
+│   └── Exploratory data analysis and visualizations
+│
+└── vendor_performance_analysis.ipynb
+    └── Vendor performance analysis
 ```
 
 ---
