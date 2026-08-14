@@ -126,7 +126,7 @@ python get_vendor_summary.py
 ```
 5. Open and run notebooks:
    - 'exploratory_data_analysis.ipynb'
-   - 
+   - 'vendor_performance_analysis.ipynb'
 
 
 ---
