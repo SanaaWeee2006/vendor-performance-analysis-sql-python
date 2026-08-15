@@ -141,5 +141,5 @@ python get_vendor_summary.py
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
 **Sana Perween**
-Email: per.sana.21@gmail.com
+Email: [per.sana.21@gmail.com]
 [LinkedIn](www.linkedin.com/in/30sana)
