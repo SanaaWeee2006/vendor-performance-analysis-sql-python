@@ -142,5 +142,5 @@ python get_vendor_summary.py
 
 Author: Sana Perween
 
-LinkedIn: [www.linkedin.com/in/30sana] <br>
-Email: [per.sana.21@gmail.com]
+Email: [per.sana.21@gmail.com] <br>
+LinkedIn: [www.linkedin.com/in/30sana] 
