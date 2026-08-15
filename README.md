@@ -140,6 +140,7 @@ python get_vendor_summary.py
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
-**Sana Perween**
+Author: Sana Perween
+
+LinkedIn: [www.linkedin.com/in/30sana]
 Email: [per.sana.21@gmail.com]
-[LinkedIn](www.linkedin.com/in/30sana)
